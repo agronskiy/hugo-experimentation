@@ -1,0 +1,4 @@
+---
+---
+
+CONTENT FROM SOME-POST
